@@ -3,10 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/ORTHO/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.196" />
+        <entry key="..\:/ORTHO/app/src/main/res/drawable/logein_bg.xml" value="0.196" />
         <entry key="..\:/ORTHO/app/src/main/res/drawable/rounded.xml" value="0.222" />
         <entry key="..\:/ORTHO/app/src/main/res/layout/activity_home.xml" value="0.24010416666666667" />
         <entry key="..\:/ORTHO/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/ORTHO/app/src/main/res/layout/activity_registration.xml" value="0.23645833333333333" />
         <entry key="..\:/ORTHO/app/src/main/res/layout/fragment_home.xml" value="0.23645833333333333" />
+        <entry key="..\:/ORTHO/app/src/main/res/layout/fragment_logein.xml" value="0.23645833333333333" />
+        <entry key="..\:/ORTHO/app/src/main/res/layout/fragment_profile.xml" value="0.22239583333333332" />
+        <entry key="..\:/ORTHO/app/src/main/res/layout/fragment_registration.xml" value="0.23645833333333333" />
+        <entry key="..\:/ORTHO/app/src/main/res/layout/fragment_top_u_p.xml" value="0.23645833333333333" />
       </map>
     </option>
   </component>
