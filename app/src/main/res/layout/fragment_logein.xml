@@ -83,13 +83,13 @@
                     >
 
                     <com.google.android.material.textfield.TextInputEditText
-                        android:id="@+id/phoneNumber"
+                        android:id="@+id/userMail"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:fontFamily="@font/poppins_medium"
-                        android:hint="Your Number"
+                        android:hint="Your Email"
                         android:includeFontPadding="false"
-                        android:inputType="textPassword"
+                        android:inputType="textEmailAddress"
                         android:paddingStart="@dimen/_4sdp"
                         android:layout_margin="@dimen/_5sdp"
                         android:paddingTop="@dimen/_8sdp"
@@ -121,7 +121,7 @@
                     >
 
                     <com.google.android.material.textfield.TextInputEditText
-                        android:id="@+id/password"
+                        android:id="@+id/userPassword"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:fontFamily="@font/poppins_medium"
@@ -147,7 +147,7 @@
                     android:layout_height="@dimen/_45sdp"
                     android:src="@drawable/btn_login"
                     android:layout_gravity="end"
-                    android:id="@+id/logeinBtn"
+                    android:id="@+id/loginBtn"
                     android:layout_marginTop="@dimen/_15sdp"
                     />
 
